@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    margin: 0px auto;
+    height: 248px;
+    width: 1011px;
+    background-image: url('img/header.png');
+}
+.main{
+    margin: 0px auto;
+    width: 920px;
+}
+body{
+    color: saddlebrown;
+    font-size: 24px;
+    background-image: url(img/ascendancy-bg.jpg);
+}
+.but{
+    position: relative;
+    left: 115px;
+    top: 185px;
+    width: 71px;
+    height: 25px;
+    background-color: aqua;
+}
